@@ -62,8 +62,8 @@ conference:
   navigation:
     logo:
       name: CAIMS2023
-      img: 'logo_simple.png'
-      url: 'https://caims2023.github.io/'
+      img: 'caims-logo.svg'
+      url: 'https://caims.ca/'
     links:
       - name: Committees
         relative_url: "committees.html"
