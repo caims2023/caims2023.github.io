@@ -4,4 +4,15 @@ layout: home
 
 The Annual Meeting of the Canadian Applied and Industrial Mathematics Society (CAIMS) will take place in Fredericton, New Brunswick, Canada from 12 to 15 June 2023.
 
-Proposals for mini-symposiums should be submitted by February 15, 2023. Acceptance of mini-symposiums will be sent by the beginning of March 2023.
+### Minisymposia proposal and abstract submission
+
+Minisymposia  will consist of 100 minute blocks containing four (4) talks per block.
+Each talk will be 20 minutes plus 5 minutes for questions and transition.
+Minisymposium proposals should names of 3 to 12 speakers.
+Minisymposium organizers will be contacted to add contributed talks fitting the theme of their proposal.
+Proposals for mini-symposiums should be submitted by 01 March 2023
+using [this form](https://forms.office.com/r/T907nRReHL).
+
+Forms for Submission of abstracts for posters, contributed talks, and talks in **accepted** minisymposia will be available soon.
+
+
