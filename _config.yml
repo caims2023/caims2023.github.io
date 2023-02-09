@@ -67,14 +67,14 @@ conference:
     links:
       - name: Committees
         relative_url: "committees.html"
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+          #      - name: Program
+          #        relative_url: /program/
+          #      - name: Talks
+          #        relative_url: /talks/
+          #      - name: Speakers
+          #        relative_url: /speakers/
+          #      - name: Location
+          #        relative_url: /location/
 
   # Link Preview for Sharing
   link_preview:
@@ -88,14 +88,15 @@ conference:
   main:
     logo:
       img: 'unbcampus.png'
+    # links appearing along the bottom of main page
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      #      - name: Program
+      #  relative_url: /program/
+      #- name: How to get there
+      #  relative_url: /location/
+      #- name: Tickets
+      #  disabled: true
+      #  absolute_url: ''
 
   # Information boxes
   info_bars:
@@ -104,9 +105,6 @@ conference:
       main_only: true
       text: |
         Information about the conference will be posted as it becomes available.
-    - text: This is just some random content for testing purposes.
-      color: warning
-      pages_only: true
 
   # Live indications
   live:
