@@ -16,4 +16,5 @@ To ensure your proposal is considered, we advise submitting as soon as possible,
 
 Forms for Submission of abstracts for posters, contributed talks, and talks in **accepted** minisymposia will be available soon.
 
+![Tentative Block Schedule](/assets/images/caims2023blockschedule.png)
 
