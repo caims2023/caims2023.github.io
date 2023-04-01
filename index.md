@@ -12,9 +12,10 @@ Minisymposium proposals should names of 3 to 12 speakers.
 Minisymposium organizers will be contacted to add contributed talks fitting the theme of their proposal.
 Proposals can be submitted using [this form](https://forms.office.com/r/T907nRReHL).
 Review of proposals for mini-symposiums will begin 01 March 2023.
-To ensure your proposal is considered, we advise submitting as soon as possible, and no later than **15 March 2023**.
+To ensure your proposal is considered, we advise submitting as soon as possible.
 
-Forms for Submission of abstracts for posters, contributed talks, and talks in **accepted** minisymposia will be available soon.
+Abstracts for posters, contributed talks, and talks in accepted minisymposia can be submitted using [this form](https://forms.office.com/r/NTfAA2iKmd).
 
-![Tentative Block Schedule](/assets/images/caims2023blockschedule.png)
+
+
 
