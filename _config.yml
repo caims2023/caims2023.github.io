@@ -67,6 +67,8 @@ conference:
     links:
       - name: Committees
         relative_url: "committees.html"
+      - name: Registration
+        relative_url: /registration/
       - name: Program
         relative_url: /program/
           #      - name: Talks
