@@ -69,6 +69,8 @@ conference:
         relative_url: "committees.html"
       - name: Registration
         relative_url: /registration/
+      - name: Accomodation
+        relative_url: /accomodation/
       - name: Program
         relative_url: /program/
           #      - name: Talks
