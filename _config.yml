@@ -88,6 +88,7 @@ conference:
           #        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+        layout: speaker-overview
           #      - name: Location
           #        relative_url: /location/
 
