@@ -5,7 +5,7 @@ hide: no
 organisers:
     - Sarah Nataj
 speakers:
-    - Ronald D. Haynes 
+    - Ronald Haynes 
     - Avleen Kaur
     - Yann-Meing Law
     - Emmanuel Lorin
@@ -13,7 +13,7 @@ speakers:
     - Colin MacDonald
     - Paul Muir
     - Sarah Nataj
-    - Raymond J. Spiteri
+    - Raymond Spiteri
 ---
 
 (Note: talk titles and links to abstracts will appear when the information is submitted by speakers and processed.)
