@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The Annual Meeting of the Canadian Applied and Industrial Mathematics Society (CAIMS) will take place in Fredericton, New Brunswick, Canada from 12 to 15 June 2023.
+The Annual Meeting of the Canadian Applied and Industrial Mathematics Society (CAIMS) will take place on the University of New Brunswick Campus in Fredericton, New Brunswick, Canada from 12 to 15 June 2023.
 
 ### Minisymposia proposal and abstract submission
 
