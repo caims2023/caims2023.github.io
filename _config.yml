@@ -86,8 +86,8 @@ conference:
         layout: minisymposia-overview
           #      - name: Talks
           #        relative_url: /talks/
-          #      - name: Speakers
-          #        relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
           #      - name: Location
           #        relative_url: /location/
 
