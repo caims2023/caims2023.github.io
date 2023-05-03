@@ -73,24 +73,24 @@ conference:
       img: 'caims-logo.svg'
       url: 'https://caims.ca/'
     links:
-      - name: Committees
-        relative_url: "/committees.html"
       - name: Registration
         relative_url: /registration/
       - name: Accomodation
         relative_url: /accomodation/
-      - name: Program
-        relative_url: /program/
+      - name: Committees
+        relative_url: "/committees.html"
       - name: Minisymposia
         relative_url: /minisymposia/
         layout: minisymposia-overview
-          #      - name: Talks
-          #        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
         layout: speaker-overview
-          #      - name: Location
-          #        relative_url: /location/
+      - name: Talks
+        relative_url: /talks/
+      - name: Program
+        relative_url: /program/
+      - name: Rooms
+        relative_url: /rooms/
 
   # Link Preview for Sharing
   link_preview:
@@ -118,14 +118,14 @@ conference:
   info_bars:
     - title: Registration is Open!
       color: primary
-      main_only: true
+      main_only: false
       text: |
-        "Register by May 15, 2023 for an early-bird discount."
+        "Register [here](/registration/index.html) by May 15, 2023 for an early-bird discount."
 
   # Live indications
   live:
     date: 12.06.2023
-    timezone: GMT-5
+    timezone: GMT-3
     stop:       240  # in minutes
     streaming:
       enable: true
@@ -139,7 +139,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 45.94973223156155, -66.6414194631104
+    home_coord: 45.94759434520442, -66.64360844053535
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
@@ -151,10 +151,17 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Plenaries
         color: info
-      - name: Cat B
+      - name: Minisymposium lectures
+        color: warning
+      - name: Prize talks
         color: success
+      - name: Breaks
+        color: dark
+      - name: Special Sessions
+        color: alert
+
 
     # Hide icons on talk overview page
     hide_icons: false
