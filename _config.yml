@@ -116,11 +116,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to CAIMS2023
+    - title: Registration is Open!
       color: primary
       main_only: true
       text: |
-        Information about the conference will be posted as it becomes available.
+        "Register by May 15, 2023 for an early-bird discount."
 
   # Live indications
   live:
