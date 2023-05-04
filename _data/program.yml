@@ -1,25 +1,26 @@
 days:
+
 - name: Monday
-  abbr: Mo
-  date: 2020-01-31
+  abbr: Mon
+  date: 2023-06-12
   rooms:
-  - name: Room A
+  - name: Breaks
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
+      - name: Morning break
+        time_start: '10:00'
+        time_end: '10:30'
+  rooms:
+  - name: Main Theatre
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
+      - name: "Learning dynamics and generalization in artificial and biological neural networks: a common mathematical perspective"
+        time_start: '10:30'
+        time_end: '11:30'
+- name: Thursday
+  abbr: Thur
+  date: 2023-06-15
+  rooms:
+  - name: Main Theatre
     talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+      - name: Neural differential equations and deep learning from data to inform unknown behavior adaption during outbreaks of emerging infectious diseases
+        time_start: '10:30'
+        time_end: '11:30'
