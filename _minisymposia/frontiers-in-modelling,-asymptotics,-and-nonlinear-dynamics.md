@@ -6,17 +6,20 @@ organisers:
     - David Amundsen
     - Phil Trinh
 speakers:
-    - Sean Bohun
-    - Lucy Campbell
     - Lucas Finney
     - Iain Moyles
+    - Ana Mucalica
     - Chunhua Ou
-    - Dmitry Pelinovsky
     - Merlin Pelz
     - Timothy Peters
-    - Francis Poulin
     - Ray Spiteri
+    - Siqi Wei
+    - Sean Bohun
+    - Lucy Campbell
+    - Dmitry Pelinovsky
+    - Francis Poulin
     - Phil Trinh
+    - David Amundsen
 ---
 
 (Note: talk titles and links to abstracts will appear when the information is submitted by speakers and processed.)
