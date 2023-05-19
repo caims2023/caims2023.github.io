@@ -1,7 +1,7 @@
 ---
 speakers:
 - Breaks
-name: Afternoon break
+name: Afternoon Break
 categories:
 - Breaks
 hide: no

@@ -157,16 +157,16 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Plenaries
+      - name: Plenary Lectures
         color: info
-      - name: MS
+      - name: Short Talks
         color: warning
-      - name: Prize talks
+      - name: Prize Lectures
         color: success
       - name: Breaks
         color: dark
       - name: Special Sessions
-        color: alert
+        color: primary
 
 
     # Hide icons on talk overview page
@@ -191,7 +191,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    show_alltimes: true
+    show_alltimes: false

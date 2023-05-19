@@ -1,7 +1,7 @@
 ---
 speakers:
 - Breaks
-name: Morning break
+name: Morning Break
 categories:
 - Breaks
 hide: no

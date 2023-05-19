@@ -1,9 +1,0 @@
----
-speakers:
-  - Pritha Dutta
-name: "Kidneys: regulator of magnesium homeostasis"
-categories:
-  - MS
-hide: no
----
-Magnesium (Mg2+) plays an important role in several physiological functions and its deficiency has been associated with neurological disorders, heart disorders, hypertension, and type 2 diabetes. The kidneys play a central role in maintaining serum Mg2+ within a narrow range (0.70–1.10 mmol/L). Mg2+ transport along the nephron is mainly driven by the electrochemical gradient set up by active sodium transport.  In this study, we integrated the transport of Mg2+ to our previously developed epithelial cell-based computational model of solute transport along the male rat nephron to investigate the effect of inhibiting the sodium transporters, Na-K-2Cl cotransporter (NKCC2) and Na-Cl cotransporter (NCC) along the thick ascending limb (TAL) and distal convoluted tubule (DCT), respectively, on renal Mg2+ transport. The reason behind focusing on these two transporters is that they are responsible for the majority of Mg2+ reabsorption and are also the targets of loop and thiazide diuretics, which are commonly used to treat hypertension. Since most of the Mg2+ is reabsorbed along the TAL, acute inhibition of NKCC2 causes more severe hypermagnesuria compared to when NCC is acutely inhibited. Interestingly, with chronic NKCC2 inhibition or when NKCC2 is completely absent or mutated (Bartter’s syndrome), hypermagnesuria is not severe. Increase in transcellular Mg2+ reabsorption along the DCT alone cannot account for this lesser Mg2+ wasting. There must be some additional compensatory mechanisms to restrict excessive Mg2+ wasting. We used our computational model to gain insight into how Mg2+ reabsorption along different nephron segments and Mg2+ excretion are affected by the inhibition of these Na+ transporters.

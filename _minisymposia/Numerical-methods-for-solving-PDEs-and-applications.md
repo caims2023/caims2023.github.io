@@ -7,7 +7,6 @@ organisers:
 speakers:
     - Ronald Haynes 
     - Avleen Kaur
-    - Yann-Meing Law
     - Emmanuel Lorin
     - Jane Shaw MacDonald
     - Colin MacDonald
