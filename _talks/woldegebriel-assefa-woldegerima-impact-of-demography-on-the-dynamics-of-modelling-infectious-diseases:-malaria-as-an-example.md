@@ -1,6 +1,6 @@
 ---
 speakers:
-  - Woldegebriel Assefa
+  - Woldegebriel Assefa Woldegerima
 name: "Impact of Demography on the Dynamics of modelling infectious Diseases: Malaria as an example"
 categories:
   - Short Talks

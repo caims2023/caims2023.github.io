@@ -1,9 +1,11 @@
 ---
 speakers:
-  - NA
-name: "EDI Session"
+  -
+name: "Reception"
 categories:
   - Special Sessions
 hide: no
 ---
+
+
 
