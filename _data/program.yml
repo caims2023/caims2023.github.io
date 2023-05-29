@@ -5,6 +5,18 @@ days:
   rooms:
   - name: Main Theatre
     talks:
+      - name: "Theodore Kolokolnikov TBA"
+        time_start: "08:20"
+        time_end: "08:45"
+      - name: "Jason Bramburger TBA"
+        time_start: "08:45"
+        time_end: "09:10"
+      - name: "Arvin Vaziry TBA"
+        time_start: "09:10"
+        time_end: "09:35"
+      - name: "Chunyi Gai TBA"
+        time_start: "09:35"
+        time_end: "10:00"
       - name: "Morning Break"
         time_start: "10:00"
         time_end: "10:30"
@@ -220,6 +232,9 @@ days:
       - name: "Propagation dynamics of forced pulsating waves of a time periodic Lotka-Volterra competition system in a shifting habitat"
         time_start: "17:00"
         time_end: "17:25"
+      - name: "Constructing Bayesian networks to discover probabilistic dependence between angler’s behaviour and auxiliary data"
+        time_start: "17:25"
+        time_end: "17:50"
 - name: Wednesday
   abbr: Wed
   date: 2023-06-14
