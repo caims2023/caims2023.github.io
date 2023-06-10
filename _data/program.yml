@@ -174,6 +174,9 @@ days:
       - name: "Quasi-cycle brain rhythm dynamics estimated from data"
         time_start: "17:00"
         time_end: "17:25"
+      - name: "Analysis and optimal control of perturbed epidemic models."
+        time_start: "17:25"
+        time_end: "17:50"
   - name: Room 16
     talks:
       - name: "O-equivalent measures and arbitrage"
@@ -241,6 +244,9 @@ days:
       - name: "Learning Volatility Surfaces using Generative Adversarial Networks"
         time_start: "17:00"
         time_end: "17:25"
+      - name: "Using machine learning methods and citizen-reported data to predict angler behavior"
+        time_start: "17:25"
+        time_end: "17:50"
 - name: Wednesday
   abbr: Wed
   date: 2023-06-14
