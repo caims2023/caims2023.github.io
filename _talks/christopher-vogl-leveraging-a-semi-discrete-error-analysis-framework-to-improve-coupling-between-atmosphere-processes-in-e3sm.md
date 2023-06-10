@@ -1,6 +1,6 @@
 ---
 speakers:
-  - Chris Vogl
+  - Christopher Vogl
 name: "Leveraging a Semi-Discrete Error Analysis Framework to Improve Coupling Between Atmosphere Processes in E3SM"
 categories:
   - Short Talks
