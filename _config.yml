@@ -116,17 +116,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Registration is Open!
+    - title: CAIMS Code of Conduct
       color: primary
       main_only: false
       text: |
-        "Register [here](/registration/index.html) by May 15, 2023 for an early-bird discount."
-    - title: Call for EDI volunteers and panelists
-      color: primary
-      main_only: true
-      text: |
-        "We are accepting volunteers and nominations for panelists for the OMNI/RÉUNIS-CAIMS Equity, Diversity and Inclusion (EDI) panel, which will occur on Wednesday June 14 2pm-3.40pm at the CAIMS meeting in Fredericton. [For more details, and to apply see here:](https://docs.google.com/forms/d/e/1FAIpQLSe358wMK7zdZgtwICTT9lx19C256LPGX3yPQA69wA3SP_fRtQ/viewform?usp=sf_link)"
-
+        "All participants are expected to comply with the [CAIMS-SCMAI Code of Conduct](/registration/code-of-conduct.html)"
 
   # Live indications
   live:
