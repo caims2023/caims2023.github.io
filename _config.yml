@@ -159,10 +159,10 @@ conference:
     main_categories:
       - name: Plenary Lectures
         color: info
-      - name: Short Talks
-        color: warning
       - name: Prize Lectures
         color: success
+      - name: Short Talks
+        color: warning
       - name: Breaks
         color: dark
       - name: Special Sessions

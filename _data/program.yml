@@ -12,7 +12,7 @@ days:
   abbr: Mon
   date: 2023-06-12
   rooms:
-  - name: Main Theatre
+  - name: Amphitheatre
     talks:
       - name: "Recurrent and chaotic outbreaks in SIR model with variable infection rate"
         time_start: "08:20"
@@ -130,7 +130,7 @@ days:
   abbr: Tue
   date: 2023-06-13
   rooms:
-  - name: Main Theatre
+  - name: Amphitheatre
     talks:
       - name: "Links between the hippocampal theta oscillation and chimera dynamics"
         time_start: "08:20"
@@ -251,7 +251,7 @@ days:
   abbr: Wed
   date: 2023-06-14
   rooms:
-  - name: Main Theatre
+  - name: Amphitheatre
     talks:
       - name: "Error Control Software with Event Detection for the Numerical Solution of PDEs"
         time_start: "08:20"
@@ -372,7 +372,7 @@ days:
   abbr: Thu
   date: 2023-06-15
   rooms:
-  - name: Main Theatre
+  - name: Amphitheatre
     talks:
       - name: "Dominik Wodarz TBA"
         time_start: "08:20"
