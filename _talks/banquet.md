@@ -1,6 +1,6 @@
 ---
 speakers:
-  - Raymond Spitari
+  - " "
 name: "Banquet"
 categories:
   - Special Sessions

@@ -1,6 +1,6 @@
 ---
 speakers:
-  -
+  - " "
 name: "Reception"
 categories:
   - Special Sessions
