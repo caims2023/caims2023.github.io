@@ -244,7 +244,7 @@ days:
       - name: "Learning Volatility Surfaces using Generative Adversarial Networks"
         time_start: "17:00"
         time_end: "17:25"
-      - name: "Using machine learning methods and citizen-reported data to predict angler behavior"
+      - name: "Does it though? Periodic orbits in chaotic systems simulated at low precision"
         time_start: "17:25"
         time_end: "17:50"
 - name: Wednesday
