@@ -15,4 +15,4 @@ The reception will be held in the Old Arts Building, a short walk downhill and w
 
 Lunch will be served in Lady Dunn Hall, near the on campus housing, a short walk directly across campus (and slightly uphill).
 
-[Campus Map](campusmap.jpeg)
+[Campus Map](campusmap.png)
