@@ -212,6 +212,9 @@ days:
       - name: "Constructing Bayesian networks to discover probabilistic dependence between angler’s behaviour and auxiliary data"
         time_start: "17:25"
         time_end: "17:50"
+      - name: "Using machine learning methods and citizen-reported data to predict angler behavior"
+        time_start: "17:50"
+        time_end: "18:10"
   - name: Room 18
     talks:
       - name: "The future of rounding is stochastic"
