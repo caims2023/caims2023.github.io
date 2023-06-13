@@ -44,7 +44,7 @@ days:
       - name: "Normalized connectomes show increased synchronizability with age through their second largest eigenvalue"
         time_start: "14:25"
         time_end: "14:50"
-      - name: "Emma Towlson TBA"
+      - name: "Negative correlations in large-scale functional brain networks reveal an 'anti-rich club' which is disrupted in Autism Spectrum Disorder"
         time_start: "14:50"
         time_end: "15:15"
       - name: "Chimera states and the critical brain hypothesis"
@@ -377,7 +377,7 @@ days:
   rooms:
   - name: Amphitheatre
     talks:
-      - name: "Dominik Wodarz TBA"
+      - name: "In vivo evolutionary dynamics of HIV-1 in the follicular and extra-follicular compartments of the lymphoid tissues"
         time_start: "08:20"
         time_end: "08:45"
       - name: "Predicting the efficacy of COVID-19 vaccines"
