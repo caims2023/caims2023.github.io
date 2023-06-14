@@ -389,7 +389,7 @@ days:
       - name: "Red blood cell viral traps; neutralization potential"
         time_start: "09:10"
         time_end: "09:35"
-      - name: "Samaneh Gholami TBA"
+      - name: "Effect of a novel generalized incidence rate function in SIR model: stability switches and bifurcations"
         time_start: "09:35"
         time_end: "10:00"
       - name: "Morning Break"
