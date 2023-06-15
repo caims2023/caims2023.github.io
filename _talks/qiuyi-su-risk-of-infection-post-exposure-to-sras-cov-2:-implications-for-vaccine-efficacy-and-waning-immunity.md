@@ -1,7 +1,7 @@
 ---
 speakers:
   - Qiuyi Su
-name: "Risk of infection post exposure to SRAS-CoV-2: Implications for Vaccine Efficacy and Waning Immunity"
+name: "Risk of infection post exposure to SARS-CoV-2: Implications for Vaccine Efficacy and Waning Immunity"
 categories:
   - Short Talks
 hide: no

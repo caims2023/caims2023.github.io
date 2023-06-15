@@ -422,7 +422,7 @@ days:
       - name: "Differences in immune responses to SARS-CoV-2 in COVID-19 hospitalized patients with comorbidities"
         time_start: "16:10"
         time_end: "16:35"
-      - name: "Risk of infection post exposure to SRAS-CoV-2: Implications for Vaccine Efficacy and Waning Immunity"
+      - name: "Risk of infection post exposure to SARS-CoV-2: Implications for Vaccine Efficacy and Waning Immunity"
         time_start: "16:35"
         time_end: "17:00"
       - name: "Within-host evolution of SARS-CoV-2: how often are de novo mutations transmitted?"
